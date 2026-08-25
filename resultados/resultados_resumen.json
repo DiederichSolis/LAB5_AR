@@ -1,0 +1,22 @@
+{
+  "seeds": [
+    7,
+    19,
+    31,
+    43,
+    59
+  ],
+  "episodes": 600,
+  "first_sustained_linear_advantage_episode": 30,
+  "linear_reward_last50_mean": -10.038011091762709,
+  "linear_reward_last50_std_across_all": 4.487007755951002,
+  "tabular_reward_last50_mean": -9.596149963870827,
+  "tabular_reward_last50_std_across_all": 5.754309545052008,
+  "weight_norm_final_mean": 7.008721535930728,
+  "weight_norm_last50_slope_mean": 0.004751300108236231,
+  "mse_final_mean": 14.117740404378747,
+  "linear_v_parameters": 10,
+  "linear_q_parameters": 20,
+  "tabular_q_entries_5_levels": 250,
+  "tabular_q_entries_10_levels": 2000
+}
